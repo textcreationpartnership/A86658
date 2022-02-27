@@ -1,0 +1,397 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The rebells warning-piece; being certaine rules and instructions left by Alderman Hoyle (a member of Parliament) being a burgesse for York-shire, who hanged himself Ianuary 30. within half an hour after that day twelve-moneth he and his sectarian brethren had murthered their King. This seasonable caveat being written by his owne hand, was found lying by him in the chamber where he hanged himselfe. Also the sudden madnesse of Sheriff Wilson, a perjur'd relapsed, and apostate alderman of the City of London, who was carried mad from Guild-hall, so soon as he had taken the new ingagement, and now desperatly seeketh to end his life. With a new epitaph on Alderman Hoyle, and a new ballad on the loathed life and sudden death of Sir Philip E. of Pembroke.</title>
+            <author>Hoyle, Thos., d. 1650.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86658</idno>
+            <idno type="STC">Wing H3204A</idno>
+            <idno type="STC">Thomason E593_13</idno>
+            <idno type="STC">ESTC R206898</idno>
+            <idno type="EEBO-CITATION">99865992</idno>
+            <idno type="PROQUEST">99865992</idno>
+            <idno type="VID">118251</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86658)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118251)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 91:E593[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The rebells warning-piece; being certaine rules and instructions left by Alderman Hoyle (a member of Parliament) being a burgesse for York-shire, who hanged himself Ianuary 30. within half an hour after that day twelve-moneth he and his sectarian brethren had murthered their King. This seasonable caveat being written by his owne hand, was found lying by him in the chamber where he hanged himselfe. Also the sudden madnesse of Sheriff Wilson, a perjur'd relapsed, and apostate alderman of the City of London, who was carried mad from Guild-hall, so soon as he had taken the new ingagement, and now desperatly seeketh to end his life. With a new epitaph on Alderman Hoyle, and a new ballad on the loathed life and sudden death of Sir Philip E. of Pembroke.</title>
+                  <author>Hoyle, Thos., d. 1650.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the good of the State,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Feb: 19 1649"; the imprint date has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Puritan Revolution, 1649-1660 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118251:1" rendition="simple:additions"/>
+            <p>THE REBELLS WARNING-PIECE; BEING Certaine Rules and Inſtructions left by Alderman <hi>HOYLE</hi> (a Member of Parliament) being a Burgeſſe for <hi>York-ſhire,</hi> who hanged him<g ref="char:EOLhyphen"/>ſelf <hi>Ianuary</hi> 30. within half an hour after that day twelve-moneth he and his Sectarian Brethren had murthered their KING.</p>
+            <p>This ſeaſonable <hi>Caveat</hi> being written by his owne hand, was found lying by him in the Cham<g ref="char:EOLhyphen"/>ber where he hanged Himſelfe.</p>
+            <p>ALSO The ſudden madneſſe of Sheriff <hi>Wilſon,</hi> a perjur'd, relapſed, and apoſtate Alderman of the City of <hi>London,</hi> who was carried mad from <hi>Guild-hall,</hi> ſo ſoon as he had taken the new <hi>In<g ref="char:EOLhyphen"/>gagement,</hi> and now deſperatly ſeeketh to end his life.</p>
+            <p>With a new EPITAPH on Alderman <hi>Hoyle,</hi> and a new Ballad on the loathed Life and ſudden Death of Sir <hi>Philip</hi> E. of <hi>Pembroke.</hi>
+            </p>
+            <p>Printed for the good of the State. 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:118251:2"/>
+            <pb n="3" facs="tcp:118251:2"/>
+            <head>THE REBELLS VVarning-Piece:</head>
+            <p n="1">1. I Confeſſe and acknowledge to all the World, that I have theſe ſix yeares to the terror of my Conſcience, ſided with a deſperate, wicked, ungodly, and Schiſmaticall Faction of men, in this preſent Parliament, walking in the Name of <hi>Independents;</hi> who have led mee <hi>blind-fold</hi> to this Deſtruction; firſt by making me guilty of laying vio<g ref="char:EOLhyphen"/>lent hands upon the ſacred Perſon of my KING.</p>
+            <p n="2">2. To <hi>uſurpe</hi> the Power and formallity of lawfull Juſtice.</p>
+            <p n="3">3. Againſt the Lawes of God and Man, to depoſe him, and imbrew my impious hands in his <hi>Royall Blood.</hi>
+            </p>
+            <p n="4">4. Againſt my ſeverall Oathes of Allegiance, Supremacy, League and Covenant, &amp;c. beſides the light of my owne Conſcience, to make ap<g ref="char:EOLhyphen"/>provall of all this by ſigning my hand, or conſenting to ſo high and hor<g ref="char:EOLhyphen"/>rid a Treaſon, above all that beares the name or thought of wickednes.</p>
+            <p n="5">5. That contrary to my former Oaths, I have perfideouſly <hi>ſigned</hi> to the new <hi>Ingagement,</hi> and made approvall of a new Government with<g ref="char:EOLhyphen"/>out King or Houſe of Lords, though but for ſuſpition of ſome going a<g ref="char:EOLhyphen"/>bout to <hi>change the ſaid Government,</hi> I have been one that have ſenten<g ref="char:EOLhyphen"/>ced others to Death.</p>
+            <p n="6">6. I have been brought to thinke, I was ſo perfect, that I was <hi>above all Ordinances</hi> of God, or Lawes of Man, and might my ſelfe doe what I liſt, and not give an account for any of my actions to God or Man: and whatſoever I did or ſhould doe (though never ſo wicked and deſ<g ref="char:EOLhyphen"/>perate) was already forgiven, and ſo not accountable for.</p>
+            <p n="7">7. I have beleeved that the Soule of Man is mortall, and a meere compoſure of the foure Elements, and at the diſolution of my body, ſhall returne to the firſt Principles or Elements it was made of, <hi>viz.</hi> Fire, Aire, Water, Earth, and of no other celeſtiall matter whatſoever.</p>
+            <p n="8">8. I have beleeved that it is lawfull, where mindes cannot ſimpathiſe between a Man and his Wife, to put away one Woman, and take ano<g ref="char:EOLhyphen"/>ther, without any conſent of the Temporall or Spirituall Authority; which hath blown up the fire of Luſt in my boyling veins, and made me commit Adultrey, and Whoredome, &amp;c.</p>
+            <p n="9">9. I have believed it lawfull to Equivocate, Lie, Blaſphemie, &amp;c. or to act Regicide or murder on any Perſon (though never ſo ſacred) to gain
+<pb n="4" facs="tcp:118251:3"/>
+my ſelf ſuperiority, and <hi>reigne</hi> over the reſt; which hath cauſed me with ranck-mouth'd Slanders to doe my utmoſt to blaſt the Fame, and Inte<g ref="char:EOLhyphen"/>grity of my late King, his Queen, and their Progeny; and by Ambition, Pride and Covetouſneſs have uſed all frawdulent wayes and means to enrich my ſelf out of the <hi>ruines</hi> of the late King &amp; his Faithful ſubjects.</p>
+            <p n="10">10. I have accounted <hi>Chance</hi> or <hi>ſucceſſe</hi> to be my God, and have varyed and fitted my evill <hi>Principles</hi> thereto, acknowledging no other <hi>Power,</hi> and with the ſame reſolution armed my ſelf to hinder all good in others, and commit any <hi>evill</hi> my ſelf.</p>
+            <p>Thus walking in this Laborinth of ſin, and crooked Meanders of <hi>wickedneſs</hi> my <hi>blind guides</hi> had led me into, being deſtitute of a <hi>right Guide,</hi> having nothing but a <hi>falſe light,</hi> in ſtead of bringing me out, to minde and bewitch me further into more imaginary <hi>miſchiefs,</hi> groaping with one hand this way, and the other that way, at laſt I fell headlong into the deep <hi>pit</hi> of <hi>deſperation,</hi> the <hi>ſnare</hi> of the <hi>Devil,</hi> and <hi>darkneſs</hi> of <hi>hell,</hi> whereupon many idle <hi>Imaginations</hi> came hourly into my head, that I could neither, eat, drinke, nor take reſt; ſometimes I thought a man all in black offered me a Knife, and pointing it to my Throat, which pre<g ref="char:EOLhyphen"/>ſently put me in minde, that to eaſe my troubled <hi>Conſcience,</hi> it was my beſt way to out my own throat; whereupon I provided me a ſharpe Knife, and aſſayed to doe the ſame about <hi>Christmaſs</hi> laſt, but was then prevented by my ſervant, and Mr. <hi>Peters, Dell,</hi> and others ſent unto me by both the <hi>Houſe</hi> and the <hi>Army,</hi> whoſe Exhortations and Prayers wrought no whit upon me, but rather drove me to greater <hi>deſpaire,</hi> in which I continued till the Devill preſented before me (as in a glaſſe) all my fore-mentioned <hi>Errours</hi> that I had maintained, and the <hi>bloody</hi> cry<g ref="char:EOLhyphen"/>ing ſins I had formerly committed, and ſhewed me a glaſſe of wine, ſee<g ref="char:EOLhyphen"/>ming to out poyſon therein, and drinke it off: preſently I apprehended it muſt be a poyſoned <hi>cup,</hi> muſt allay that ſcorching fire of hell that con<g ref="char:EOLhyphen"/>ſumed my blood-guilty <hi>conſcience;</hi> I preſently called up my man telling him I was trobled with a <hi>Rat</hi> that knaw'd my <hi>writings,</hi> &amp; commanded him to buy me two penny-worths of <hi>Ratsbane;</hi> but my man (obſerving former diſtempers in me) came back without, ſaying the <hi>Apothecary</hi> queſtioned what he would doe with it; and brought up a <hi>Trap</hi> in his hand to catch the <hi>Rat,</hi> when indeed it was nothing but my own <hi>rotten,</hi> and <hi>ſcared Conſcience</hi> tearing and devouring my more rotten <hi>ſoul:</hi> being out by this time; I became a little quieter, and took Phyſick for my body, which but prolonged the pains of my <hi>ſoul;</hi> ſometimes I had ſome good motions to read, and taking up my Bible, accidentally open<g ref="char:EOLhyphen"/>ed it upon the fourth Chapter of the ſecond Book of <hi>Samuel,</hi> verſ. 10,
+<pb n="5" facs="tcp:118251:3"/>
+11, 12. which when I had read, I preſently fell into my <hi>old diſtemper;</hi> me thought I ſaw <hi>Judas, Abſalom</hi> and <hi>Ahitophell</hi> hanging themſelves; pre—I ſuggeſted (on the Devil in me) that I could finde no reſt till I did the ſame; methought my <hi>minde</hi> ran preſently on the <hi>bed-coard,</hi> and I did thinke it a comfort, that I was ſo well provided; I kneeled down, but could not pray, nor had I power to think of any thing but hell and <hi>damnation,</hi> ſo that night I went to Bed; where I no ſooner ſlumbred, but I ſaw paſſe by my bed the late KING attended with the Earl of <hi>Straf<g ref="char:EOLhyphen"/>ford,</hi> the Biſhop of <hi>Canterbury,</hi> the Lord <hi>Capel,</hi> and numbers before and behind Him bearing <hi>Palms</hi> in their hands ſinging this <hi>Anthem; Hee that is faithfull to the end, and overcommeth, ſhall inherit all things, and I will be his God, and he ſhall be my Son; but the fearfull, the unbelee<g ref="char:EOLhyphen"/>ving the abominable, the Murderers, Whoremongers, Sorcerers, Idola<g ref="char:EOLhyphen"/>ters, and all Lyars ſhall have their parts in the Lake which burneth which burneth with Brimstone and fire.</hi> I awaking in a great paſſion flung my ſelf toward the wall, my arm hanging down between the wall and the bed, and pulling up my hand, brought a piece of the Bed-cord up in my hand which hanged by, which I cut off with my knife and laid by me, and riſe up and betook my ſelf to write theſe few <hi>Items,</hi> which I leave as a <hi>Legacy</hi> to thoſe to whom it doth belong.</p>
+            <p>Woe unto you O bloody <hi>Cities</hi> of <hi>London</hi> and <hi>Weſtminſter,</hi> for your Pride hath ruined the King, his children, and the whole <hi>Country</hi> round about you; Vengeance is now reigning down upon you, becauſe of your ſin, you have been both Mothers and Nurſes of Rebellion, <hi>Cities</hi> of Murder<g ref="char:EOLhyphen"/>ers, robbers and Spoilers; therefore becauſe you do ſpoil, you muſt be ſpoiled, and that ſuddenly, even in leſſe then two full yeeres.</p>
+            <p>VVoe unto thee thou black Perjured <hi>Parliament,</hi> for you have taken upon you the Office of the Almighty, judged, condemned, and Martyred your rightfull King over whom you had not the least Power to wrong one hair of that <hi>Head</hi> you preſumed to ſeparate from the body of Gods Anoin<g ref="char:EOLhyphen"/>ted, in which accurſed <hi>blow,</hi> you ſmote off your ſelves from the Protection of the Almighty, denyed your faith, and are no more <hi>Chriſtians</hi> but <hi>Infi<g ref="char:EOLhyphen"/>dells,</hi> more blood guilty then <hi>Cain</hi> or <hi>Iudas</hi> fearfull and terrible, ſhall be your ends before three times three Moons ſhall go their circuits, you ſhall be many of you with me, if not by the ſame manner of death, by a worſe.</p>
+            <p>VVoe unto you Apoſtatizing and backſliding Army, for you have made many widows and Fatherleſſe you and your <hi>Armies</hi> ſhall rott away like dung, you ſhall be a stinke in the noſtrills of all People to the worlds end.</p>
+            <p>VVoe unto thee <hi>Fairfax, Cromwell, Bradſhaw,</hi> &amp;c. ye ſpared not the Lords Anointed, neither ſhall you be ſpared. <hi>Thus</hi> Lucifer <hi>fell; ſo muſt you all, and ſinke to hell.</hi>
+            </p>
+            <closer>
+               <signed>Yours, HOYLE.</signed>
+            </closer>
+            <argument>
+               <p>
+                  <pb n="6" facs="tcp:118251:4"/>THe writing of this took him up neer till dinner-time, about which time his Land-lord came to him, and asked him, if he pleaſed to come down to dinner; He anſwered, he was drawing up ſome <hi>Inſtru<g ref="char:EOLhyphen"/>ctions</hi> for the Counſell of <hi>State,</hi> which he muſt finiſh by two a clock, yet to cover his deſperate <hi>intention,</hi> bid him preſerve him ſome meat, and ſent down <hi>Ten ſhilings</hi> to the ſervants of the houſe to buy <hi>Powder</hi> to make <hi>fire-works</hi> to ſolemnize the <hi>day,</hi> which was received thankfully by them, and St. <hi>Regicides Holy-day</hi> made by maſter and ſervants, who all went abroad to ſpend the <hi>Burgeſſe</hi> of <hi>Yorks</hi> money, which adminiſtred him the better opportunity to <hi>hang himſelf,</hi> which before they came in again, (by the help of the Devil) he had effected with a <hi>Bed-coard;</hi> A fearfull <hi>Example</hi> to all deſperate <hi>Regicides.</hi>
+               </p>
+               <p>Behold! Here is a <hi>Warning-Piece</hi> for all <hi>Rebells,</hi> if their <hi>Pride</hi> will give them leave to ponder the <hi>end</hi> of this <hi>deſperate</hi> wretch; This fore<g ref="char:EOLhyphen"/>going Paper came to my hands by his Servant, which I ſeriouſly peru<g ref="char:EOLhyphen"/>ſing, thought it worthy the revealing in print; to dehort others from the like, yet finding great difficulty in the Preſſe (which is ty'd up from delivering <hi>Truths</hi> in this nature) I at laſt prevailed with the Printer, (notwithſtanding any <hi>Act</hi> to the contrary,) to Print and publiſh the ſame, in which I have not added nor deminiſhed a word; only adding to his own laſt and ſeaſonable <hi>Advice,</hi> this <hi>Epitaph</hi> following.</p>
+            </argument>
+         </div>
+         <div type="epitaph">
+            <head>An <hi>EPITAPH</hi> on Alderman HOYL <hi>(a Member of Parliament)</hi> who hanged himſelf
+<date>
+                  <hi>January 30. 1649.</hi>
+               </date>
+            </head>
+            <l>
+               <hi>AHitophel</hi> and <hi>Hoyle</hi> did Counſell well,</l>
+            <l>And ſo doth <hi>Fairfax, Bradſhaw</hi> and <hi>Cromwell,</hi>
+            </l>
+            <l>But all againſt their KING; <hi>Theſe</hi> did effect</l>
+            <l>That <hi>Counſell</hi> that <hi>Ahitophel</hi> did direct;</l>
+            <l>They did purſue with <hi>Thouſands,</hi> ſmote the <hi>King,</hi>
+            </l>
+            <l>And their <hi>dark Plotts</hi> did to concluſion bring:</l>
+            <l>
+               <hi>Hoyle</hi> had no cauſe as th' other had to <hi>ſwing,</hi>
+            </l>
+            <l>Who <hi>hang'd</hi> becauſe he could not kill the KING.</l>
+            <l>What difference is in <hi>Traytors,</hi> when in <hi>deſpaire,</hi>
+            </l>
+            <l>They'l hang before the <hi>Act,</hi> to end their <hi>feare:</hi>
+            </l>
+            <l>So far from home too! Had'ſt thou ne're an <hi>Aſſe</hi>
+            </l>
+            <l>To ſaddle? or did the <hi>Houſe</hi> deny thy <hi>Paſſe?</hi>
+            </l>
+            <l>To ſet thy owne in <hi>order?</hi> was there no way</l>
+            <l>Thou <hi>perjur'd wretch</hi> to ſtay another day:</l>
+            <l>Thy <hi>Conſcience</hi> the next day might <hi>calm,</hi> and ſave</l>
+            <l>Thy Name and Honor from a putrid <hi>grave:</hi>
+            </l>
+            <l>
+               <pb n="7" facs="tcp:118251:4"/>How deſprate was thy <hi>Act?</hi> how <hi>bloody,</hi> vaine</l>
+            <l>To take a <hi>Halter</hi> for thy SOVERAIGNS <hi>Reine.</hi>
+            </l>
+            <l>He needs muſt go (it ſeems) the Devill drives,</l>
+            <l>
+               <hi>Traytors</hi> and <hi>Rebells</hi> ne're end better lives:</l>
+            <l>Who aims by <hi>Treaſon</hi> to uſurpe a <hi>Growne,</hi>
+            </l>
+            <l>Unleſe his <hi>halter</hi> holds, he tumbles down;</l>
+            <l>But if they all ſhould hang, 'tis but untill</l>
+            <l>With <hi>Lucifer</hi> they be <hi>cut down</hi> to <hi>Hell.</hi>
+            </l>
+            <p>Since which, <hi>Row Wilſon,</hi> a perjur'd revolted Alderman of <hi>London,</hi> ſo ſoon as he had taken the <hi>new Ingagement</hi> fell deſperately mad in their <hi>Guild-Hall,</hi> the very place he had forſworn himſelf, and now ſeeks but the ſame opportunity as his brother <hi>Hoyle,</hi> to hang himſelf.</p>
+            <l>You that with <hi>bloody-fraude</hi> did ſcourge and teare</l>
+            <l>
+               <hi>Aſtrea's</hi> ſides without leaſt dread or feare,</l>
+            <l>Committed now your <hi>Priſner,</hi> in irons, pent</l>
+            <l>Vp <hi>cloſe</hi> during your <hi>black Parliament,</hi>
+            </l>
+            <l>Whil'ſt ſweet-lip'd-<hi>fraude,</hi> with her divided-face.</l>
+            <l>Acts <hi>Juſtice</hi> part, uſurps <hi>Astrea's</hi> place,</l>
+            <l>VVhilſt Royal CHARLS his <hi>Scepter's</hi> flung aſide,</l>
+            <l>Hell is broak looſe, and all her <hi>Fiends</hi> untyde:</l>
+            <l>But let them do their worſt; ther's none</l>
+            <l>But <hi>Charls</hi> can rule in <hi>Charls</hi> his <hi>Throne.</hi>
+            </l>
+         </div>
+         <div type="ballad">
+            <p>
+               <hi>Philip</hi> the <hi>Crab-fiſh</hi> Earl of <hi>Pembrok,</hi> that crope backward to his Ho<g ref="char:EOLhyphen"/>nor, and forſaking the <hi>head,</hi> till he had taken <hi>new degrees</hi> in the <hi>tayle,</hi> in his ſickneſs dreamed he was in <hi>heaven,</hi> where he ſaw the <hi>King,</hi> who fell upon him, and kic'kd him out, <hi>asking him, what he made there?</hi> That the lordly <hi>Gemmoner</hi> awaking, ſwore <hi>Dam</hi> him and <hi>Sinck</hi> him. He had ra<g ref="char:EOLhyphen"/>ther go to <hi>hell</hi> to Col. <hi>Rainsbrough</hi> and Mr. <hi>Pym,</hi> then go to <hi>heaven</hi> to the KING and <hi>Cavaliers</hi> Becauſe he deſerves not an <hi>Epitaph,</hi> you may be beter ſatisfy'd, to ſing his <hi>Dirge</hi> in a <hi>New Ballad,</hi> To the Tune of <hi>Chevy-Chaſe:</hi>
+            </p>
+            <lg>
+               <l>
+                  <hi>GOds</hi> bleſſing guid our Royal King</l>
+               <l>with Health and Victory,</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd all his Foes to <hi>Juſtice</hi> bring,</l>
+               <l>or elſe like <hi>Pembroke</hi> die.</l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> whoſe late and I now muſt write,</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut all his <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ng may know,</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he <hi>deſperate end</hi> attends each <hi>wight,</hi>
+               </l>
+               <l>who <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>es his <hi>Soveraignes</hi> Foe.</l>
+            </lg>
+            <lg>
+               <l>Treaſon was ſtill his onely guide,</l>
+               <l>he <hi>ſteer'd</hi> his Actions by,</l>
+               <l>A Foole he liv'd, a Mad-Man dy'd,</l>
+               <l>may all the reſt ſo dye.</l>
+            </lg>
+            <lg>
+               <l>The daily Prayer that he made,</l>
+               <l>with Curſes were attended,</l>
+               <l>Began with <hi>Oaths</hi> what ere he ſaid,</l>
+               <l>and with <hi>God dam me</hi> ended.</l>
+            </lg>
+            <lg>
+               <pb n="8" facs="tcp:118251:5"/>
+               <l>Now leſt the world ſhould miſconceive</l>
+               <l>the reaſon of his death,</l>
+               <l>A briefe account I here ſhall give,</l>
+               <l>what ſtopt his ſtinking breath.</l>
+            </lg>
+            <lg>
+               <l>A Counceller he long time had,</l>
+               <l>beſides his <hi>Oldiſworth</hi> ſtill,</l>
+               <l>By whoſe advice grand projects laid,</l>
+               <l>and acted by his will.</l>
+            </lg>
+            <lg>
+               <l>The Divell in mans ſhape appear'd,</l>
+               <l>each Evening at his bed,</l>
+               <l>And every Morne his Knight-ſhip rear'd,</l>
+               <l>and him to counſell led.</l>
+            </lg>
+            <lg>
+               <l>But now by chance it ſo fell out,</l>
+               <l>they too Familliar came,</l>
+               <l>And taking leave, ere he went out,</l>
+               <l>for which he was too blame.</l>
+            </lg>
+            <lg>
+               <l>He néeds would ſtake him by the hand</l>
+               <l>but that prov'd ſomething warme,</l>
+               <l>which made him curſes ſwearing ſtand</l>
+               <l>it poyſond all his arme.</l>
+            </lg>
+            <lg>
+               <l>And tumbling back, the devil by chance</l>
+               <l>troad on his Lordſhips too,</l>
+               <l>Which caſt him in a ſudden Trance,</l>
+               <l>and provd his finall woe.</l>
+            </lg>
+            <lg>
+               <l>Both leg &amp; arme did <hi>Gangrene</hi> ſtraight</l>
+               <l>black as his durty Soule,</l>
+               <l>A ſubtill trick it was in faith,</l>
+               <l>and made his heart ſoone cold.</l>
+            </lg>
+            <lg>
+               <l>And then upon his bed héed laid,</l>
+               <l>but yet no reſt can take,</l>
+               <l>His conſcience cryes, his ſouls betrayd</l>
+               <l>even for his moneys ſake.</l>
+            </lg>
+            <lg>
+               <l>And now he raves like one diſtract,</l>
+               <l>or mad-man out o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s wits,</l>
+               <l>(His braines before long time being crack't,</l>
+               <l>now ſweares, now prayes by <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ts.</l>
+            </lg>
+            <lg>
+               <l>No ſooner can he ſhut his eyes,</l>
+               <l>but ſtraight he ſtarts againe,</l>
+               <l>Take héed take héed, aloud he cryes</l>
+               <l>the Kings alive againe.</l>
+            </lg>
+            <lg>
+               <l>His gaſping groanes Alarums giv<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>unto his Brethren deare,</l>
+               <l>The curſed crew that yet doe live,</l>
+               <l>that they their ends might feare.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Mild may</hi> take héed, the <hi>Scots</hi> are co<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </l>
+               <l>the King will hang us all,</l>
+               <l>In <hi>England</hi> we ſhall have no roome,</l>
+               <l>and great will be out fall.</l>
+            </lg>
+            <lg>
+               <l>Nothing at all could eaſe his mind,</l>
+               <l>a Legion him poſſeſt,</l>
+               <l>His treacherous <hi>Conſcience</hi> could no<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> find</l>
+               <l>one houre or minutes reſt.</l>
+            </lg>
+            <lg>
+               <l>Vntill at laſt a Chriſtian Prieſt,</l>
+               <l>this <hi>Jew</hi> came to convert,</l>
+               <l>Who had before bin long oppreſt</l>
+               <l>for being a <hi>Loyall Heart.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The Common Prayer too muſt be,</l>
+               <l>the Prayer that he muſt heare,</l>
+               <l>Which er'ſt ſo perſecuted he,</l>
+               <l>neither muſt come him néere.</l>
+            </lg>
+            <lg>
+               <l>Which now himſelfe he curſes for,</l>
+               <l>and ſées his Treaſons all,</l>
+               <l>Scarce hoping any Mercie, or</l>
+               <l>Compaſſion at his fall,</l>
+            </lg>
+            <lg>
+               <l>Now Rebels all a warning take,</l>
+               <l>of this your Noble Péere,</l>
+               <l>Conſider what an end they make</l>
+               <l>that live ſo dambly here.</l>
+            </lg>
+            <lg>
+               <l>And Royall hearts be conſtant ſtill,</l>
+               <l>your Soveraignes Cauſe <gap reason="illegible" resp="#UOM" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap>
+               </l>
+               <l>The Evening crowns the day, &amp; w<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </l>
+               <l>reward your preſent chance.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
